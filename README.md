@@ -1,13 +1,13 @@
 # Olá! Eu sou o Felipe Rodrigues 👋🏻
 
-> "Frase de efeito" - Yoda
+> "Faça, ou não faça. Tentativa não há." - Yoda
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferfafe/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.rs991@gmail.com)
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-rod91&show_icons=true&theme=dracula)
 
-## Tecnologias
+## 💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
