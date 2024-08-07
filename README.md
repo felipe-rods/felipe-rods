@@ -1,5 +1,7 @@
 # Olá! Eu sou o Felipe Rodrigues 👋🏻
 
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro resolver problemas e transformar ideias em realidade através do código.
+
 > "Faça, ou não faça. Tentativa não há." - Yoda
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferfafe/)
