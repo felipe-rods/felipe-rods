@@ -1,6 +1,6 @@
 # Olá! Eu sou o Felipe Rodrigues 👋🏻
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro resolver problemas e transformar ideias em realidade através do código.
+Desenvolvedor Back-End com foco em Python, Django e PostgreSQL. Apaixonado por aprender e resolver problemas através da programação. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 > "Faça, ou não faça. Tentativa não há." - Yoda
 
