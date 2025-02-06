@@ -4,7 +4,7 @@ Desenvolvedor Back-End, apaixonado por aprender e resolver problemas através da
 
 > "Faça, ou não faça. Tentativa não há." - Yoda
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferfafe/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rods/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.rs991@gmail.com)
 
 ## 💻 Tecnologias
