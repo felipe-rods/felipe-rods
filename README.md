@@ -16,4 +16,4 @@ Desenvolvedor Back-End, apaixonado por aprender e resolver problemas através da
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Felipe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipe-rods&show_icons=true&theme=dracula)]
+[![Felipe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipe-rods&show_icons=true&theme=dracula&locale=pt-br)]
