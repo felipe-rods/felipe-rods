@@ -9,7 +9,15 @@ Desenvolvedor Backend, apaixonado por aprender e resolver problemas através da 
 
 ## 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,html,css,git)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git">
+</a>
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
