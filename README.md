@@ -1,6 +1,6 @@
 # Olá! Eu sou o Felipe Rodrigues 👋🏻
 
-<b>Desenvolvedor Backend, apaixonado por aprender e resolver problemas através da programação. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.</b>
+Desenvolvedor Backend, apaixonado por aprender e resolver problemas através da programação. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 > "Faça, ou não faça. Tentativa não há." - Yoda
 
