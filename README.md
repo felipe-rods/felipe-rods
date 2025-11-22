@@ -9,7 +9,7 @@ Desenvolvedor Backend, apaixonado por aprender e resolver problemas através da 
 
 ## 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,postgres,git,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,postgres,docker,git,linux)](https://skillicons.dev)
 
 
 <div>
