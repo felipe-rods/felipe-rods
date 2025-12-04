@@ -13,6 +13,6 @@ Desenvolvedor Fullstack, apaixonado por aprender e resolver problemas através d
 
 ## 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-rods)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-rods)](https://github.com/felipe-rods/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/felipe-rods/felipe-rods/output/snake.svg" alt="Snake animation" />
