@@ -10,3 +10,5 @@ Desenvolvedor Backend, apaixonado por aprender e resolver problemas através da 
 ## 💻 Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,postgres,docker,git,linux)](https://skillicons.dev)
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
