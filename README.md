@@ -11,8 +11,4 @@ Desenvolvedor Fullstack, apaixonado por aprender e resolver problemas através d
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,postgres,docker,git,linux)](https://skillicons.dev)
 
-## 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-rods&show_icons=true)
-
 <img src="https://raw.githubusercontent.com/felipe-rods/felipe-rods/output/snake.svg" alt="Snake animation" />
