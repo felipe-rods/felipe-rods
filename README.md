@@ -11,4 +11,4 @@ Desenvolvedor Backend, apaixonado por aprender e resolver problemas através da 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,postgres,docker,git,linux)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/felipe-rods/felipe-rods/output/snake.svg" alt="Snake animation" />
