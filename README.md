@@ -9,6 +9,6 @@ Desenvolvedor Fullstack, apaixonado por aprender e resolver problemas através d
 
 ## 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,postgres,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,django,postgres,docker,git,linux)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/felipe-rods/felipe-rods/output/snake.svg" alt="Snake animation" />
